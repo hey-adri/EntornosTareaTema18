@@ -18,4 +18,8 @@ public class App {
     public static void featureNoMerge02(){
         
     }
+
+    public static void featureNoMerge03(){
+        
+    }
 }
