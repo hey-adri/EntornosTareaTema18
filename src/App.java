@@ -17,4 +17,12 @@ public class App {
     public static void creacionRamaHotfix01(){
         
     }
+
+    public static void ramaFeatureMerge01(){
+        
+    }
+
+    public static void ramaFeatureMerge02(){
+        
+    }
 }
