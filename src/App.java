@@ -10,4 +10,8 @@ public class App {
     public static void ramaDevelop01(){
         
     }
+
+    public static void ramaDevelop02(){
+        
+    }
 }
