@@ -2,8 +2,8 @@
 
 Adrián García García
 
-Cambio en master v0.1, primer commit cambio develop para conflicto
+Cambio en master v0.1, primer commit conflicto resuelto
 
+Creacion Rama Hotfix
 Creacion Rama Develop
-
 Actualizacion Rama Develop v0.2

@@ -14,4 +14,7 @@ public class App {
     public static void ramaDevelop02(){
         
     }
+    public static void creacionRamaHotfix01(){
+        
+    }
 }
