@@ -25,4 +25,8 @@ public class App {
     public static void ramaFeatureMerge02(){
         
     }
+
+    public static void ramaRelease01(){
+        
+    }
 }
