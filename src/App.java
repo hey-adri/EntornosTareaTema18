@@ -29,4 +29,8 @@ public class App {
     public static void ramaRelease01(){
         
     }
+
+    public static void ramaRelease02(){
+        
+    }
 }
