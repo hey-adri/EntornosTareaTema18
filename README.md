@@ -54,3 +54,7 @@ Con git merge, unificaremos dos ramas resolviendo los conflictos, para ello nos 
 Actualizaremos nuestro repositorio de la rama principal: git fetch
 Por último, unificaremos las ramas: git merge <branch-name>
 
+
+## Esquema de commits
+![Screenshot](GraficoTareaTema18.png)
+
